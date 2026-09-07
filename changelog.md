@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [Add support for custom time duration calculations](https://github.com/ballerina-platform/ballerina-library/issues/6840)
 
+### Changed
+- [[#9110] Add `Type/Library` and `Area/Built-in` Keywords, Reformat README for Connector Store Discoverability](https://github.com/ballerina-platform/ballerina-library/issues/9110)
+
 ## [2.5.0] - 2024-09-12
 ### Fixed
 - [When converting a `time:Civil` with time-zone information to a string using `time:civilToString` API error is thrown](https://github.com/ballerina-platform/ballerina-library/issues/6986)
